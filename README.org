@@ -1,0 +1,9 @@
+#+Title: Plant-keeping
+#+Author: Louis Boulanger
+
+This repository aims to reliably log watering, re-potting and other
+events for my office plants.
+
+My plants:
+- [[file:Pothos/log.org][Pothos]]
+  [[./Pothos/Photos/2023-01-23.jpg]]

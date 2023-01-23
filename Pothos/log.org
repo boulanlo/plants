@@ -1,0 +1,13 @@
+#+Title: Pothos plant
+#+Author: Louis Boulanger
+
+- Species: [[https://en.wikipedia.org/wiki/Epipremnum_aureum][Epipremnum aureum (Pothos plant)]]
+- Acquisition date: [2023-01-21 Sat]
+
+[[./Photos/2023-01-23.jpg]]
+
+| Timestamp        | Event                                                    |
+|------------------+----------------------------------------------------------|
+| [2023-01-21 Sat] | Acquisition                                              |
+| [2023-01-23 Mon] | Changed pots; still too small, needs bigger pot tomorrow |
+
