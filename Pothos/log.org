@@ -11,3 +11,4 @@
 | [2023-01-21 Sat] | Acquisition                                              |
 | [2023-01-23 Mon] | Changed pots; still too small, needs bigger pot tomorrow |
 | [2023-01-30 Mon] | Watered                                                  |
+| [2023-02-06 Mon] | Watered                                                  |
