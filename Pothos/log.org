@@ -4,7 +4,7 @@
 - Species: [[https://en.wikipedia.org/wiki/Epipremnum_aureum][Epipremnum aureum (Pothos plant)]]
 - Acquisition date: [2023-01-21 Sat]
 
-[[./Photos/2023-01-23.jpg]]
+[[./Photos/2023-02-21.jpg]]
 
 | Timestamp        | Event                                                    |
 |------------------+----------------------------------------------------------|
@@ -12,3 +12,5 @@
 | [2023-01-23 Mon] | Changed pots; still too small, needs bigger pot tomorrow |
 | [2023-01-30 Mon] | Watered                                                  |
 | [2023-02-06 Mon] | Watered                                                  |
+| [2023-02-15 Wed] | Watered                                                  |
+| [2023-02-21 Tue] | Watered                                                  |
