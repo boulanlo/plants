@@ -1,0 +1,11 @@
+#+Title: Monstera Monkey Leaf
+#+Author: Louis Boulanger
+
+- Species: [[https://en.wikipedia.org/wiki/Monstera_adansonii][Monstera Adansonii]]
+- Acquisition date: [2023-03-04 Sat]
+
+[[./Photos/2023-03-06.jpg]]
+
+| Timestamp        | Event       |
+|------------------+-------------|
+| [2023-03-04 Sat] | Acquisition |
