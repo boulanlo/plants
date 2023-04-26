@@ -10,3 +10,7 @@
 |------------------+-------------|
 | [2023-03-04 Sat] | Acquisition |
 | [2023-03-10 Fri] | Watered     |
+| [2023-03-31 Fri] | Watered     |
+| [2023-03-06 Thu] | Watered     |
+| [2023-03-14 Fri] | Watered     |
+| [2023-03-21 Fri] | Watered     |
