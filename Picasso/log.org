@@ -1,6 +1,7 @@
 #+Title: Pothos plant
 #+Author: Louis Boulanger
 
+- Name: [[https://en.wikipedia.org/wiki/Pablo_Picasso][Picasso]]
 - Species: [[https://en.wikipedia.org/wiki/Epipremnum_aureum][Epipremnum aureum (Pothos plant)]]
 - Acquisition date: [2023-01-21 Sat]
 
