@@ -1,6 +1,7 @@
 #+Title: Monstera Monkey Leaf
 #+Author: Louis Boulanger
 
+- Name: [[https://en.wikipedia.org/wiki/Piet_Mondrian][Mondrian]]
 - Species: [[https://en.wikipedia.org/wiki/Monstera_adansonii][Monstera Adansonii]]
 - Acquisition date: [2023-03-04 Sat]
 
