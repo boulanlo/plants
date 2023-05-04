@@ -5,7 +5,7 @@ This repository aims to reliably log watering, re-potting and other
 events for my office plants.
 
 My plants:
-- [[file:Pothos/log.org][Pothos]]
-  [[./Pothos/Photos/2023-02-21.jpg]]
-- [[./Monstera/log.org][Monstera]]
-  [[./Monstera/Photos/2023-03-06.jpg]]
+- [[./Picasso/log.org][Picasso (Pothos)]]
+  [[./Picasso/Photos/2023-02-21.jpg]]
+- [[./Monet/log.org][Monet (Monstera)]]
+  [[./Monet/Photos/2023-03-06.jpg]]
