@@ -12,4 +12,4 @@ My plants:
 - [[./Monet/log.org][Monet (Pilea)]]
   [[./Monet/Photos/2023-05-04.jpg]]
 - [[./Cézanne/log.org][Cézanne (4-leaf clover)]]
-  [[./Cézanne/Photos/2023-05-04.jpg]]
+  [[./Cézanne/Photos/2023-05-10.jpg]]
