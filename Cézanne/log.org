@@ -11,3 +11,6 @@
 |------------------|----------------------|
 | [2023-05-03 Wed] | Acquisition as seeds |
 | [2023-05-04 Thu] | Planted              |
+| [2023-05-05 Fri] | Watered              |
+| [2023-05-09 Tue] | Watered              |
+| [2023-05-10 Wed] | Watered              |
