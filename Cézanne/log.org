@@ -5,7 +5,7 @@
 - Species: [[https://en.wikipedia.org/wiki/Oxalis][Oxalis]]
 - Acquisition date: [2023-05-03 Wed] in Grenoble, France as a birthday gift
 
-[[./Photos/2023-05-10.jpg]]
+[[./Photos/2023-05-11.jpg]]
 
 | Timestamp        | Event                |
 |------------------|----------------------|
@@ -14,3 +14,4 @@
 | [2023-05-05 Fri] | Watered              |
 | [2023-05-09 Tue] | Watered              |
 | [2023-05-10 Wed] | Watered              |
+| [2023-05-11 Thu] | Watered              |
