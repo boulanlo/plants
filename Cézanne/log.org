@@ -17,3 +17,5 @@
 | [2023-05-11 Thu] | Watered              |
 | [2023-05-12 Fri] | Watered              |
 | [2023-05-15 Mon] | Watered              |
+| [2023-05-17 Wed] | Watered              |
+| [2023-05-19 Fri] | Watered              |
