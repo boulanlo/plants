@@ -7,23 +7,25 @@
 
 [[./Photos/2023-05-04.jpg]]
 
-| Timestamp        | Event                                                        |
-|------------------+--------------------------------------------------------------|
-| [2023-01-21 Sat] | Acquisition                                                  |
-| [2023-01-23 Mon] | Changed pots; still too small, needs bigger pot tomorrow     |
-| [2023-01-30 Mon] | Watered                                                      |
-| [2023-02-06 Mon] | Watered                                                      |
-| [2023-02-15 Wed] | Watered                                                      |
-| [2023-02-21 Tue] | Watered                                                      |
-| [2023-02-28 Tue] | Watered                                                      |
-| [2023-03-06 Mon] | Watered                                                      |
-| [2023-03-14 Tue] | Watered                                                      |
-| [2023-03-30 Thu] | Watered                                                      |
-| [2023-04-14 Fri] | Watered                                                      |
-| [2023-04-21 Fri] | Watered                                                      |
-| [2023-05-02 Tue] | Watered                                                      |
-| [2023-05-04 Thu] | Repotted into 2/3 universal soil 1/3 perlite in bigger pot   |
-| [2023-05-12 Fri] | Watered                                                      |
-| [2023-05-17 Wed] | Watered (in plate)                                           |
-| [2023-05-19 Fri] | Watered (in plate)                                           |
-| [2023-05-22 Fri] | Watered (in plate)                                           |
+| Timestamp        | Event                                                      |
+|------------------+------------------------------------------------------------|
+| [2023-01-21 Sat] | Acquisition                                                |
+| [2023-01-23 Mon] | Changed pots; still too small, needs bigger pot tomorrow   |
+| [2023-01-30 Mon] | Watered                                                    |
+| [2023-02-06 Mon] | Watered                                                    |
+| [2023-02-15 Wed] | Watered                                                    |
+| [2023-02-21 Tue] | Watered                                                    |
+| [2023-02-28 Tue] | Watered                                                    |
+| [2023-03-06 Mon] | Watered                                                    |
+| [2023-03-14 Tue] | Watered                                                    |
+| [2023-03-30 Thu] | Watered                                                    |
+| [2023-04-14 Fri] | Watered                                                    |
+| [2023-04-21 Fri] | Watered                                                    |
+| [2023-05-02 Tue] | Watered                                                    |
+| [2023-05-04 Thu] | Repotted into 2/3 universal soil 1/3 perlite in bigger pot |
+| [2023-05-12 Fri] | Watered                                                    |
+| [2023-05-17 Wed] | Watered (in plate)                                         |
+| [2023-05-19 Fri] | Watered (in plate)                                         |
+| [2023-05-22 Fri] | Watered (in plate)                                         |
+| [2023-05-23 Tue] | Watered (in plate)                                         |
+
