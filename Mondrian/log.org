@@ -5,7 +5,7 @@
 - Species: [[https://en.wikipedia.org/wiki/Monstera_adansonii][Monstera Adansonii]]
 - Acquisition date: [2023-03-04 Sat] in Annecy, France
 
-[[./Photos/2023-05-04.jpg]]
+[[./Photos/2023-06-06.jpg]]
 
 | Timestamp        | Event                                                        |
 |------------------+--------------------------------------------------------------|

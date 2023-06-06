@@ -6,10 +6,10 @@ events for my office plants.
 
 My plants:
 - [[./Picasso/log.org][Picasso (Pothos)]]
-  [[./Picasso/Photos/2023-05-04.jpg]]
+  [[./Picasso/Photos/2023-06-06.jpg]]
 - [[./Mondrian/log.org][Mondrian (Monstera)]]
-  [[./Mondrian/Photos/2023-05-04.jpg]]
+  [[./Mondrian/Photos/2023-06-06.jpg]]
 - [[./Monet/log.org][Monet (Pilea)]]
-  [[./Monet/Photos/2023-05-04.jpg]]
+  [[./Monet/Photos/2023-06-06.jpg]]
 - [[./Cézanne/log.org][Cézanne (4-leaf clover)]]
-  [[./Cézanne/Photos/2023-05-11.jpg]]
+  [[./Cézanne/Photos/2023-06-06.jpg]]
