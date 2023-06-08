@@ -13,3 +13,4 @@ My plants:
   [[./Monet/Photos/2023-06-06.jpg]]
 - [[./Cézanne/log.org][Cézanne (4-leaf clover)]]
   [[./Cézanne/Photos/2023-06-06.jpg]]
+- [[./Bazille/log.org][Bazille (Basil)]]

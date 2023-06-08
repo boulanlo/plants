@@ -1,0 +1,11 @@
+#+Title: Bazille (Basil)
+#+Author: Louis Boulanger
+
+- Name: [[https://en.wikipedia.org/wiki/Frédéric Bazille][Bazille]]
+- Species: [[https://en.wikipedia.org/wiki/Basil][Ocimum basilicum]]
+- Acquisition date: [2023-06-08 Thu] in Grenoble, France as a gift
+
+| Timestamp        | Event                   |
+|------------------+-------------------------|
+| [2023-06-08 Thu] | Acquisition             |
+| [2023-06-08 Thu] | Seeds sowed in wet soil |
