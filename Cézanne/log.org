@@ -25,3 +25,5 @@
 | [2O23-06-01 Thu] | Watered              |
 | [2023-06-05 Mon] | Watered              |
 | [2023-06-07 Wed] | Watered              |
+| [2023-06-09 Fri] | Watered              |
+| [2023-06-12 Mon] | Watered              |
