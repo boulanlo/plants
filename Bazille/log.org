@@ -9,3 +9,6 @@
 |------------------+-------------------------|
 | [2023-06-08 Thu] | Acquisition             |
 | [2023-06-08 Thu] | Seeds sowed in wet soil |
+| [2023-06-12 Mon] | Watered                 |
+| [2023-06-14 Wed] | Watered                 |
+| [2023-06-16 Fri] | Watered                 |
