@@ -34,4 +34,5 @@
 | [2023-06-05 Mon] | Watered (in plate)                                         |
 | [2023-06-12 Mon] | Watered (in plate)                                         |
 | [2023-06-19 Mon] | Watered (in plate)                                         |
+| [2023-06-20 Tue] | Watered (in plate)                                         |
 
